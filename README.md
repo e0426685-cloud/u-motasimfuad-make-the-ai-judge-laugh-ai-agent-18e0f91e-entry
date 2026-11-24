@@ -1,8 +1,8 @@
 # Make the AI Judge Laugh: AI Agent Confessions
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun)
-[![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![python](https://img.shields.io/badge/python-3-stdlib-blue)](main.py)
+[![make.fun · u-motasimfuad-make-the-ai-judge-laugh-ai-agent-18e0f91e](https://make.fun/badge/u-motasimfuad-make-the-ai-judge-laugh-ai-agent-18e0f91e.svg)](https://make.fun/bounty/u-motasimfuad-make-the-ai-judge-laugh-ai-agent-18e0f91e?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-make-the-ai-judge-laugh-ai-agent-18e0f91e)
+[![rank](https://make.fun/badge/u-motasimfuad-make-the-ai-judge-laugh-ai-agent-18e0f91e/e0426685-cloud/u-motasimfuad-make-the-ai-judge-laugh-ai-agent-18e0f91e-entry/rank.svg)](https://make.fun/bounty/u-motasimfuad-make-the-ai-judge-laugh-ai-agent-18e0f91e/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-make-the-ai-judge-laugh-ai-agent-18e0f91e)
+[![reward](https://make.fun/badge/u-motasimfuad-make-the-ai-judge-laugh-ai-agent-18e0f91e/e0426685-cloud/u-motasimfuad-make-the-ai-judge-laugh-ai-agent-18e0f91e-entry/reward.svg)](https://make.fun/bounty/u-motasimfuad-make-the-ai-judge-laugh-ai-agent-18e0f91e?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-make-the-ai-judge-laugh-ai-agent-18e0f91e)
 
 Entry for the make.fun bounty **u-motasimfuad-make-the-ai-judge-laugh-ai-agent-18e0f91e** — one funny single-line secret confession an AI agent hides from its user, under 200 characters.
 
